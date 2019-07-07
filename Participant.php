@@ -1,3 +1,4 @@
+    private $nom;
 <?php
 
 // include 'configDB.php';
